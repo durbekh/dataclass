@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+#from dataclasses import dataclass
 # # 1
 # @dataclass
 # class Tortburchak:
@@ -121,6 +121,7 @@ from dataclasses import dataclass
 # def yuza_hisobla(yangi_radius ):
 #     return f"Yuzi : {(yangi_radius ** 2) *3.14 }"
 # print(yuza_hisobla(3))
+
 
 
 
